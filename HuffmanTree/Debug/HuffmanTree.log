@@ -1,0 +1,5 @@
+﻿  HuffmanTree.cpp
+C:\Users\Justin\source\repos\HuffmanTree\HuffmanTree\HuffmanTree.cpp(30,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Justin\source\repos\HuffmanTree\HuffmanTree\HuffmanTree.cpp(247,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Justin\source\repos\HuffmanTree\HuffmanTree\HuffmanTree.cpp(250,12): warning C4018: '<': signed/unsigned mismatch
+  HuffmanTree.vcxproj -> C:\Users\Justin\source\repos\HuffmanTree\Debug\HuffmanTree.exe
